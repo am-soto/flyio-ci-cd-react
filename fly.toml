@@ -1,4 +1,4 @@
-# fly.toml file generated for flyio-ci-cd-react on 2023-03-16T16:10:01+01:00
+# fly.toml file generated for flyio-ci-cd-react on 2023-03-22T15:50:42+01:00
 
 app = "flyio-ci-cd-react"
 kill_signal = "SIGINT"
